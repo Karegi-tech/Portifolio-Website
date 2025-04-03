@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -228,7 +229,7 @@
 }
 .services-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     align-items: center;
     gap: 2.5rem;
 }
@@ -255,7 +256,7 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    padding: 5rem;
+    padding: 8rem;
 }
 .services-info h4{
     font-size: 4rem;
@@ -411,7 +412,7 @@ transform: scale(1.02);
     text-align: center;
   }
   .home-img img{
-    width: 50vw;
+    width: 56vw;
   }
   .about{
     flex-direction: column-reverse;
@@ -422,7 +423,7 @@ transform: scale(1.02);
     margin: 2rem 0;
   }
   .about img{
-    width: 50vw;
+    width: 56vw;
   }
   .contact form{
     flex-direction: column;
